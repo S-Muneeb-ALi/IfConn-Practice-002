@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.weather-page .ant-card {
+    background: transparent;
+    
+   
+}
+.weather-page .main-card {
+    background-color: rgba(255 255 255 / 50%);
+    backdrop-filter: blur(10px);
+    position: relative;
+    
+    
+    
+    
+}
+
+.weather-item .ant-card-body {
+    background-color: rgb(255, 255, 255);
+    min-height: 250px;
+
+
+}
+
+
+
+@keyframes move {
+   
+      
+
+   
+  } 

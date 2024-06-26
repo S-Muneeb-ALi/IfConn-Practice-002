@@ -1,0 +1,8 @@
+.Btn1{
+    background-size:cover ;
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    /* height: 100%; */
+    width: 30%;
+}

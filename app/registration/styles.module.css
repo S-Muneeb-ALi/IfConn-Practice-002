@@ -1,0 +1,37 @@
+.form{
+    margin: 3%;
+     
+        
+    
+}
+.main{
+    
+    border: 2px dotted cyan ;
+    max-width: 70\%;
+    max-height: 30%;
+    margin-left: 15% ;
+    /* background-image: url(../../public/h1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    .main.img {
+        opacity: 0.5;
+      } */
+    
+}
+.title{
+    margin-left: 3%;
+    margin-top: 5%;
+    font-size: xx-large;
+}
+.title2{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.add{
+    font-size: large;
+}
+.R1{
+    border-bottom: 2px dotted cyan;
+}

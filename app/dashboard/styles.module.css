@@ -1,0 +1,13 @@
+/* .Card1{
+    display: "flex";
+    justify-content: "center";
+    align-items: "center";
+    width: 65dvw;
+} */
+.Btn1{
+    display: "flex";
+    justify-content: "center";
+    align-items: "center";
+    width: 10vw;
+   height: 10dvh;
+}
